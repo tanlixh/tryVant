@@ -2,6 +2,7 @@
   <div id="app">
     <router-view></router-view>
     <div>版本2.0</div>
+    <div>版本3.0</div>
   </div>
 </template>
 
